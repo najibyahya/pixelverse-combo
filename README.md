@@ -6,7 +6,7 @@ Ambil initdata, secret, tgid & username
 Isi multi.txt dengan akunmu, format:
 initdata
 secret
-tgid
+tgid\n
 username
 
 initdata 
