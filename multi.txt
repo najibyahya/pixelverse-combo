@@ -1,0 +1,14 @@
+initdata
+secret
+tg-id
+username
+
+query_idxxxxxx
+3ffd2xxxxx
+7xxxx11xxxx
+nzaxxxxxxbxx
+
+query_id=Axxxxxx
+xxxx00xxxxxxxxeb13xxxxx
+xxx584x41xxx
+xtssaxxxxx
