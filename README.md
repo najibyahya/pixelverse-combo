@@ -1,5 +1,5 @@
 ========================
 
-untuk code combo.txt tiap hari akan di share di [tg.me/boterdrop](https://t.me/boterdrop)
+untuk code combo.txt tiap hari akan di share di [t.me/boterdrop](https://t.me/boterdrop)
 
 ========================
